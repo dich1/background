@@ -22,7 +22,7 @@
 - HTML
 - CSS
 - JavaScript
-  - JQuery
+  - jQuery
 
 ### サーバーサイド
 - Java
