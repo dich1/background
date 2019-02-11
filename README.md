@@ -1,15 +1,15 @@
 # About Me
 
-## 個人情報
-
-- 名前: 伊藤大智
+- 名前
+伊藤大智
 
 - やりたいこと
   - 場所や物理に依存しないエンゲージメントの高いチームを創ること
 
   - 人々の可処分時間の創出
 
-- キャリア年数: 2年10ヶ月
+- キャリア
+2年10ヶ月
 
 - SNSアカウント
   - [ほんだな](https://bookshelf-tech.herokuapp.com/index.html)
@@ -33,11 +33,12 @@
 ### アプリ
 - Android
   - Java
-- Objective-C
+- iOS
+  - Objective-C
+  - Swift
 - Unity
-- Swift
 
-## フレームワーク
+### フレームワーク
 - Bootstrap
 - Rails
 - Seasar2
@@ -46,32 +47,32 @@
 - Zend Framework
 - Vue.js
 
-## ミドルウェア
+### ミドルウェア
 - Apache
 - Nginx
 - Embulk
 - Digdag
 
-## DB
+### DB
 - MySQL
 - PostgreSQL
 
-## OS
+### OS
 - Linux
   - CentOS
   - Ubuntu
   - Alpine Linux
 
-## 他
+### 他
 - ShellScript
 - Google Apps Script
 - Docker
 
-## ソース管理
+### ソース管理
 - Subversion
 - Git
 
-## サービス
+### サービス
 - AWS
   - EC2
   - RDS
@@ -81,7 +82,6 @@
   - Lambda
 
 - CI
-  - Jenkins
   - CircleCI
 
 - Github
@@ -168,8 +168,8 @@
 以下の3点の能力が突出しています。
 - レジリエンス
 - GRIT
-- 可視化、問題解決・行動
-  - 不器用な事を逆説的に捉え、あらゆる面において最下層から上位層への活路を見出せます。
+- 可視化による問題発見・行動改善
+  - 不器用な事を逆説的に捉え、あらゆる面において最下層から上位層へ確実なステップでの活路を見出せます。
   - 体、メンタルの維持のためのルーティンを10年以上続けています。
   - 可視化によって物事の細分化ができ、多眼思考で俯瞰視できます。そして成果を出すまで実践できます。
 
@@ -191,7 +191,7 @@
 - 登山
   - 富士山とか
   - 他の山も
-  - 山のプロから教えを乞う
+  - 山のベテランから教えを乞う
 - ランニング
   - 通勤
 - 音楽  
