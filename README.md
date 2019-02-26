@@ -17,7 +17,7 @@
   - [Qiita](https://qiita.com/dich1)
   - [Github](https://github.com/dich1)
 
-## 技術スタック
+## 技術スタック(業務利用経験があるもの)
 ### フロント
 - HTML
 - CSS
@@ -28,7 +28,7 @@
 - Java
 - PHP
 - Ruby
-- Python
+- Python(個人利用)
 
 ### アプリ
 - Android
@@ -40,12 +40,13 @@
 
 ### フレームワーク
 - Bootstrap
-- Rails
+- Sinatra(個人利用)
+- Rails(個人利用)
 - Seasar2
 - Laravel
 - Codeignighter
 - Zend Framework
-- Vue.js
+- Vue.js(個人利用)
 
 ### ミドルウェア
 - Apache
@@ -61,7 +62,7 @@
 - Linux
   - CentOS
   - Ubuntu
-  - Alpine Linux
+  - Alpine Linux(個人利用)
 
 ### 他
 - ShellScript
@@ -78,13 +79,13 @@
   - RDS
   - Redshift
   - IAM
-  - Route53
-  - Lambda
+  - Route53(個人利用)
+  - Lambda(個人利用)
 
 - CI
   - CircleCI
 
-- Github
+- Github(個人利用)
 - Bitbucket
 - Gitlab
 - Heroku
@@ -119,11 +120,11 @@
 - システムテスト
 
 ## UML
-- フローチャート
+- フローチャート(個人利用)
 - ER図
-- クラス図
+- クラス図(個人利用)
 - シーケンス図
-- アクティビティ図
+- アクティビティ図(個人利用)
 
 ## 開発手法
 - ウォーターフォール
