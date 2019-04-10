@@ -9,7 +9,7 @@
   - 人々の可処分時間の創出
 
 - キャリア
-2年10ヶ月
+3年
 
 - SNSアカウント
   - [ほんだな](https://bookshelf-tech.herokuapp.com/index.html)
