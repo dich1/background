@@ -97,7 +97,7 @@
   - Slack
 
 - Wordpress
-- SorceTree
+- SourceTree
 - Cacoo
 - Backlog
 - Redmine
