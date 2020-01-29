@@ -29,7 +29,7 @@
 - Java
 - PHP
 - Ruby
-- Python(個人利用)
+- Python
 
 ### アプリ
 - Android
@@ -41,13 +41,14 @@
 
 ### フレームワーク
 - Bootstrap
-- Sinatra(個人利用)
-- Rails(個人利用)
+- Sinatra
+- Rails
 - Seasar2
 - Laravel
 - Codeignighter
 - Zend Framework
-- Vue.js(個人利用)
+- Vue.js
+- Nuxt.js
 
 ### ミドルウェア
 - Apache
@@ -63,7 +64,7 @@
 - Linux
   - CentOS
   - Ubuntu
-  - Alpine Linux(個人利用)
+  - Alpine Linux
 
 ### 他
 - ShellScript
@@ -80,14 +81,14 @@
   - RDS
   - Redshift
   - IAM
-  - Route53(個人利用)
-  - Lambda(個人利用)
+  - Route53
+  - Lambda
 
 - CI
   - GitlabCI
-  - CircleCI(個人利用)
+  - CircleCI
 
-- Github(個人利用)
+- Github
 - Bitbucket
 - Gitlab
 - Heroku
