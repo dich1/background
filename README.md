@@ -79,6 +79,7 @@
 - AWS
   - EC2
   - RDS
+  - ECS
   - Redshift
   - IAM
   - Route53
