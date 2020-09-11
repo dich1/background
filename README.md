@@ -7,7 +7,7 @@
   - 場所や物理に依存しないエンゲージメントの高いチームを創ること
 
 - キャリア
-3年
+4年
 
 - SNSアカウント
   - [ほんだな](https://bookshelf-tech.herokuapp.com/index.html)
