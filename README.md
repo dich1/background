@@ -81,7 +81,8 @@
   - Redshift
   - IAM
   - Route53
-  - Lambda
+  - CloudWatch
+  - ACM
 
 - CI
   - GitlabCI
