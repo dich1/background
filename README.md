@@ -14,6 +14,7 @@
   - [Twitter](https://twitter.com/daich125)
   - [Qiita](https://qiita.com/dich1)
   - [Github](https://github.com/dich1)
+  - [note](https://note.com/daich128)
 
 # 業務利用経験があるもの
 ## 技術スタック
