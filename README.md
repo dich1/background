@@ -105,7 +105,7 @@
 - Cacoo
 - Backlog
 - Redmine
-- Zira
+- Jira
 - Trello
 - Treasure Data
 
@@ -114,6 +114,7 @@
 - ECシステム
 - データ分析基盤
 - 学習システム
+- マッチングシステム
 
 ## 開発プロセス
 - 基本設計
